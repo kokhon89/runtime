@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/discord/732297728826277939?style=flat-square&label=Discord&logo=discord&logoColor=white&color=7289DA)](https://aka.ms/dotnet-discord)
 
 * [What is .NET?](#what-is-net)
-* [How can I contribute?](#how-can-i-contribute)
+* [How can I contribute?](#how-can-i-contribute)k
 * [Reporting security issues and security bugs](#reporting-security-issues-and-security-bugs)
 * [Filing issues](#filing-issues)
 * [Useful Links](#useful-links)
